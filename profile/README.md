@@ -17,9 +17,7 @@ Welcome to our Github profile!
 <p>
 <img src="https://img.shields.io/badge/Technology-ReactNative-9cf">
 <img src="https://img.shields.io/badge/Technology-MongoDB-9cf">
-<img src="https://img.shields.io/badge/Technology-SpringBoot-9cf">
 <img src="https://img.shields.io/badge/Technology-JavaScript-9cf">
-<img src="https://img.shields.io/badge/Technology-CSS-9cf">
 </p>
 
 --------------------------------------------------------------------------------------------------------------------
