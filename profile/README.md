@@ -39,7 +39,7 @@ Até mais! Nos encontraremos nos códigos  :vulcan_salute:
 <p align="justify"> Creating a mobile platform with the objective manage Files that informs the user
 about his vehicle and actualizations about the documentations.
 
-Align with the strategic objectives to be achived by each equipament 
+Align with the strategic objectives to be achived by each equipment 
 that able to inform the client.</p>
 
 
@@ -109,7 +109,7 @@ that able to inform the client.</p>
 
 <section id="cards">
        <h4> First Assignment :clock12:</h4>
-       <p align="justify">We carried out the screens project, so the client is able to visualise how is gonna be the visual part in the system.
+       <p align="justify">We carried out the screens project, so the client is able to visualize how is gonna be the visual part in the system.
 
 We started the DataBase development, where the datas will be analysed to have actualized informations
 
@@ -127,7 +127,7 @@ To have a communication between the screens, we realized the building of some sy
 
 
 <h4>First Assignment 📇</h4>
- <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/Login/Assets/Backlog.PNG">
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog1.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------
