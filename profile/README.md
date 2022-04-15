@@ -13,3 +13,131 @@ Estamos aqui para mostrar um pouco dos desafios que realizamos! :climbing_woman:
 🌱 E acima de tudo fazer do CONHECIMENTO um canal de transformação para um mundo melhor!
 
 Até mais! Nos encontraremos nos códigos  :vulcan_salute:
+
+
+
+
+
+
+
+<p><img src="https://img.shields.io/badge/Sprint%201-Concluído-green?style=for-the-badge&logo=appveyor"></p>
+<p>
+<img src="https://img.shields.io/badge/Technology-ReactNative-9cf">
+<img src="https://img.shields.io/badge/Technology-MongoDB-9cf">
+<img src="https://img.shields.io/badge/Technology-SpringBoot-9cf">
+<img src="https://img.shields.io/badge/Technology-JavaScript-9cf">
+<img src="https://img.shields.io/badge/Technology-CSS-9cf">
+</p>
+
+--------------------------------------------------------------------------------------------------------------------
+<p><h1>TecStock📖🖥️ :</h1></p>
+<h1 align="center">Welcome to the TecStock's Project!</p> </h1> 
+
+--------------------------------------------------------------------------------------------------------------------
+## :microscope: THE PROJECT:: 
+
+<p align="justify"> Creating a mobile platform with the objective manage Files that informs the user
+about his vehicle and actualizations about the documentations.
+
+Align with the strategic objectives to be achived by each equipament 
+that able to inform the client.</p>
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+##  🏬 Partners
+
+<p align="justify">
+                     ▶️  <a href="http://fatecsjc-prd.azurewebsites.net/"> FATEC - São José dos Campos</a>
+              </p>
+
+--------------------------------------------------------------------------------------------------------------------
+<section id="Branches_assigments">
+       <h2><i>Branches</i> for each assignment</h2>
+       <table>
+              <thead>
+                     <th width=100px>Assigments</th>
+                     <th>Descriptions</th>
+                     <th width=215px>Date</th>
+                     <th>Links</th>
+              </thead>
+              <tbody>
+                     <tr>
+                            <td>First Assignment_Front-End</td>
+                            <td>Screen prototypes, login area and user's screen, Search Fol, on Data Base.</td>
+                            <td>25/03 - 14/04</td>
+                            <td><a href="">Sprint 1</td>
+                     </tr>
+                     <tr>
+                            <td>First Assignment_Back-End</td>
+                            <td>Screen prototypes, login area and user's screen, Search Fol, on Data Base.</td>
+                            <td>25/03 - 14/04</td>
+                            <td><a href="https://github.com/TecStocks/backend/releases/tag/BD-v1.0">Sprint 1</td>
+                     </tr>
+                     <tr>
+                            <td>Second Assignment_Front-End</td>
+                            <td></td>
+                            <td>25/04 - 15/05</td>
+                            <td><a href="">Sprint 3</a></td>
+                     </tr>
+                     <tr>
+                            <td>Second Assignment_Back-End</td>
+                            <td></td>
+                            <td>25/04 - 15/05</td>
+                            <td><a href="">Sprint 3</a></td>
+                     </tr>                                         
+                     <tr>
+                            <td>Third Assignment_Front-End</td>
+                            <td></td>
+                            <td>16/05 - 05/06</td>
+                            <td><a href="">Sprint 3</a></td>
+                     </tr>
+                                          <tr>
+                            <td>Third Assignment_Back-End</td>
+                            <td></td>
+                            <td>16/05 - 05/06</td>
+                            <td><a href="">Sprint 3</a></td>
+                     </tr>
+
+</tbody>
+</table>
+</section>
+
+
+--------------------------------------------------------------------------------------------------------------------
+## :hourglass_flowing_sand: **_System sprint cards:_**
+
+<section id="cards">
+       <h4> First Assignment :clock12:</h4>
+       <p align="justify">We carried out the screens project, so the client is able to visualise how is gonna be the visual part in the system.
+
+We started the DataBase development, where the datas will be analysed to have actualized informations
+
+To have a communication between the screens, we realized the building of some system routes </p>
+
+## <h1 align="center"> ![](https://github.com/TecStocks/frontend/blob/main/Assets/Card1.PNG) </h1> 
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+## :bookmark: **_Total Backlog_**
+
+<h1><i>System </i><i> Sprints</i> Backlog</h1>
+
+
+<h4>First Assignment 📇</h4>
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/Login/Assets/Backlog.PNG">
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+## :bookmark: **_BURNDOWN_**
+
+<p align="justify">
+                     <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burndown.png"></img>
+
+              
+ 
+
+--------------------------------------------------------------------------------------------------------------------
