@@ -9,8 +9,6 @@ Welcome to our Github profile!
 
 
 
-
-
 --------------------------------------------------------------------------------------------------------------------
 
 <p><img src="https://img.shields.io/badge/Sprint%201-Concluído-green?style=for-the-badge&logo=appveyor"></p>
@@ -67,27 +65,29 @@ that able to inform the client.</p>
                      </tr>
                      <tr>
                             <td>Second Assignment_Front-End</td>
-                            <td></td>
+                            <td>Acces the FOL’s about the car you own, Access the document’s library (FOL’S), User Manual,
+                            Visualization improvement, Build of FOL’s search page, Including of an LGPD process.</td>
                             <td>25/04 - 15/05</td>
-                            <td><a href="">Sprint 3</a></td>
+                            <td><a href="https://github.com/TecStocks/frontend">Sprint 2</a></td>
                      </tr>
                      <tr>
                             <td>Second Assignment_Back-End</td>
-                            <td></td>
+                            <td>Acces the FOL’s about the car you own, Access the document’s library (FOL’S), User Manual,
+                            Visualization improvement, Build of FOL’s search page, Including of an LGPD process.</td>
                             <td>25/04 - 15/05</td>
-                            <td><a href="">Sprint 3</a></td>
+                            <td><a href="https://github.com/TecStocks/backend">Sprint 2</a></td>
                      </tr>                                         
                      <tr>
                             <td>Third Assignment_Front-End</td>
-                            <td></td>
+                            <td>Building of services orientations, Homologation process, Tests process,Receive occurrence notifications </td>
                             <td>16/05 - 05/06</td>
-                            <td><a href="">Sprint 3</a></td>
+                            <td><a href="https://github.com/TecStocks/frontend">Sprint 3</a></td>
                      </tr>
                                           <tr>
                             <td>Third Assignment_Back-End</td>
-                            <td></td>
+                            <td>Building of services orientations, Homologation process, Tests process,Receive occurrence notifications</td>
                             <td>16/05 - 05/06</td>
-                            <td><a href="">Sprint 3</a></td>
+                            <td><a href="https://github.com/TecStocks/backend">Sprint 3</a></td>
                      </tr>
 
 </tbody>
@@ -108,6 +108,12 @@ To have a communication between the screens, we realized the building of some sy
 
 ## <h1 align="center"> ![](https://github.com/TecStocks/frontend/blob/main/Assets/Card1.PNG) </h1> 
 
+<section id="cards">
+       <h4> Second Assignment :clock12:</h4>
+       <p align="justify">In this sprint our focus was on platform, PDF’s visualization, implementation of another screens and include the LGPD process. </p>
+
+## <h2 align="center"> ![](https://github.com/TecStocks/frontend/blob/main/Assets/CARD_SPRINT2.png) </h2> 
+
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -120,14 +126,34 @@ To have a communication between the screens, we realized the building of some sy
 <h4>First Assignment 📇</h4>
  <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog1.PNG">
 
+<h5>Second Assignment 📇</h5>
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint2.PNG">
+
+<h6>Third Assignment 📇</h6>
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint3.PNG">
+
 
 --------------------------------------------------------------------------------------------------------------------
 
 ## :bookmark: **_BURNDOWN_**
 
+
+<h4>First Assignment 📇</h4>
 <p align="justify">
                      <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burndown.png"></img>
 
+<h5>Second Assignment 📇</h5>
+<p align="justify">
+                     <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burdown_Sprint2.PNG"></img>
+              
+ 
+
+--------------------------------------------------------------------------------------------------------------------
+
+## :bookmark: **_USER GUIDE_**
+
+
+<td><a href="https://github.com/TecStocks/frontend/blob/main/Assets/Manual%20do%20usu%C3%A1rio.pdf">USER GUIDE</a></td>
               
  
 
