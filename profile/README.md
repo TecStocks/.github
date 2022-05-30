@@ -115,6 +115,14 @@ To have a communication between the screens, we realized the building of some sy
 ## <h2 align="center"> ![](https://github.com/TecStocks/frontend/blob/main/Assets/CARD_SPRINT2.png) </h2> 
 
 
+<section id="cards">
+       <h5> Third Assignment :clock12:</h5>
+       <p align="justify">In this sprint our focus was on Building of services orientations,
+       Homologation process, Tests process and Receive occurrence notifications. </p>
+
+## <h2 align="center"> ![](https://github.com/TecStocks/frontend/blob/main/Assets/Card_Sprint3.png) </h2> 
+
+
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -130,7 +138,7 @@ To have a communication between the screens, we realized the building of some sy
  <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint2.PNG">
 
 <h6>Third Assignment 📇</h6>
- <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint3.PNG">
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burdown_Sprint3.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -145,16 +153,12 @@ To have a communication between the screens, we realized the building of some sy
 <h5>Second Assignment 📇</h5>
 <p align="justify">
                      <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burdown_Sprint2.PNG"></img>
+
+<h5>Third Assignment 📇</h5>
+<p align="justify">
+                     <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burdown_Sprint3.PNG"></img>
               
  
 
 --------------------------------------------------------------------------------------------------------------------
 
-## :bookmark: **_USER GUIDE_**
-
-
-<td><a href="https://github.com/TecStocks/frontend/blob/main/Assets/Manual%20do%20usu%C3%A1rio.pdf">USER GUIDE</a></td>
-              
- 
-
---------------------------------------------------------------------------------------------------------------------
