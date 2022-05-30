@@ -138,7 +138,7 @@ To have a communication between the screens, we realized the building of some sy
  <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint2.PNG">
 
 <h6>Third Assignment 📇</h6>
- <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/burdown_Sprint3.PNG">
+ <h1 align="center"> <img src="https://github.com/TecStocks/frontend/blob/main/Assets/Backlog_Sprint3.PNG">
 
 
 --------------------------------------------------------------------------------------------------------------------
