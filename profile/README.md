@@ -162,3 +162,12 @@ To have a communication between the screens, we realized the building of some sy
 
 --------------------------------------------------------------------------------------------------------------------
 
+## :bookmark: **_Guide User_**
+
+<p align="justify">
+                     ▶️  <a href="https://github.com/TecStocks/frontend/blob/main/Assets/Manual%20do%20usu%C3%A1rio_vers%C3%A3oingl%C3%AAs.pdf"> Version - English</a>
+              </p>
+
+<p align="justify">
+                     ▶️  <a href="https://github.com/TecStocks/frontend/blob/main/Assets/Manual%20do%20usu%C3%A1rio.pdf"> Version - Portuguese</a>
+              </p>
